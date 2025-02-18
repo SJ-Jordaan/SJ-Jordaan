@@ -14,7 +14,8 @@ I'm a passionate Software Engineer, Researcher, and Educator.
 
 ## 🎓 Education
 
-- 📚 Currently completing my Masters in Computer Science
+- 📚 Currently working on my PhD in Computer Science
+- 🎓 Masters in Computer Science from the University of Pretoria
 - 🎓 Honours of Computer Science from the University of Pretoria
 - 🎓 Bachelor of Computer Science from the University of Pretoria
 
@@ -38,7 +39,7 @@ I love sharing knowledge. I've had the privilege of lecturing at the University 
 
 I'm deeply fascinated by Education Software Engineering, and I'm currently exploring:
 
-- Migrating Teaching of Automata Theory to Digital Platforms
+- Multi agent systems
 <!-- Mention your research areas or current projects. -->
 
 ---
