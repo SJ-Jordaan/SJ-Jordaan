@@ -12,7 +12,7 @@ jobs:
   survey:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: Catalogue today's world
         run: python3 generate.py
       - name: File the bulletin
