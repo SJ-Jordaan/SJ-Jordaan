@@ -1,0 +1,24 @@
+name: Daily planet survey
+
+on:
+  schedule:
+    - cron: "7 0 * * *"   # 00:07 UTC every day
+  workflow_dispatch:       # "Run workflow" button for manual runs
+
+permissions:
+  contents: write
+
+jobs:
+  survey:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Catalogue today's world
+        run: python3 generate.py
+      - name: File the bulletin
+        run: |
+          git config user.name "outer-survey-office[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "🛰️ Survey bulletin $(date -u +%F)"
+          git push
