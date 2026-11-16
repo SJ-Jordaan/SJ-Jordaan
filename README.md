@@ -9,7 +9,7 @@
 
 <!-- PLANET:START -->
 <p align="center">
-  <img src="planets/archive/2026-11-15.svg" width="840" alt="Survey bulletin: KIOLYROROR-IV, class: Cloud Kingdom. Inhabitants: none, officially. Advisory: Approach from the left. It prefers the left.">
+  <img src="planets/archive/2026-11-16.svg" width="840" alt="Survey bulletin: ZYMXIORSES PRIME, class: Glass Desert. Inhabitants: a single enormous eel that is waiting for a reply. Advisory: Do not feed the weather.">
 </p>
 <p align="center"><sub>
   🛰️ The <b>Outer Survey Office</b> catalogues one new world every day at 00:07 UTC ·
