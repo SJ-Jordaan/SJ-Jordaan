@@ -9,7 +9,7 @@
 
 <!-- PLANET:START -->
 <p align="center">
-  <img src="planets/archive/2026-11-17.svg" width="840" alt="Survey bulletin: TEELQUUSKA 283B, class: Moss World. Inhabitants: three (3) hermit snails the size of cathedrals who hum in B-flat. Advisory: If you hear your name, it is not for you.">
+  <img src="planets/archive/2026-11-18.svg" width="840" alt="Survey bulletin: THIORORUX-V, class: Lava Garden. Inhabitants: three (3) small, damp dragons who build cathedrals out of their own echoes. Advisory: Do not answer the humming.">
 </p>
 <p align="center"><sub>
   🛰️ The <b>Outer Survey Office</b> catalogues one new world every day at 00:07 UTC ·
