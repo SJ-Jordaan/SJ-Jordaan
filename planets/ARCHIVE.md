@@ -4,6 +4,7 @@ Every world catalogued so far, newest first.
 
 | No. | Date | Designation | Class | Status |
 |---:|---|---|---|---|
+| 9 | 2026-11-22 | [**ORAEMLE 320B**](archive/2026-11-22.svg) | Glass Desert | `UNDER REVIEW` |
 | 8 | 2026-11-21 | [**XABRAXHEEM-IV**](archive/2026-11-21.svg) | Fungal Ocean | `QUARANTINED` |
 | 7 | 2026-11-20 | [**AEMDREEQUOX MINOR**](archive/2026-11-20.svg) | Chrome Sea | `HABITABLE (TECHNICALLY)` |
 | 6 | 2026-11-19 | [**DRELTHYN 843B**](archive/2026-11-19.svg) | Iron Swamp | `LOST AGAIN` |
