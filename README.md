@@ -9,7 +9,7 @@
 
 <!-- PLANET:START -->
 <p align="center">
-  <img src="planets/archive/2026-11-22.svg" width="840" alt="Survey bulletin: ORAEMLE 320B, class: Glass Desert. Inhabitants: a single enormous eel that is waiting for a reply. Advisory: The locals will try to give you a hat. Accept the hat.">
+  <img src="planets/archive/2026-11-23.svg" width="840" alt="Survey bulletin: AIRPRIR PRIME, class: Cloud Kingdom. Inhabitants: none, officially. Advisory: Landing is permitted. Leaving is under review.">
 </p>
 <p align="center"><sub>
   🛰️ The <b>Outer Survey Office</b> catalogues one new world every day at 00:07 UTC ·
