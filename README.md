@@ -9,7 +9,7 @@
 
 <!-- PLANET:START -->
 <p align="center">
-  <img src="planets/archive/2026-11-24.svg" width="840" alt="Survey bulletin: VUSAAE-III, class: Ice Cathedral. Inhabitants: a small family of foxes made of static, presumed friendly. Advisory: No advisory issued. That is what worries us.">
+  <img src="planets/archive/2026-11-25.svg" width="840" alt="Survey bulletin: XINNOMGLO-I, class: Unconfirmed. Inhabitants: unknown. Advisory: Do not answer the humming.">
 </p>
 <p align="center"><sub>
   🛰️ The <b>Outer Survey Office</b> catalogues one new world every day at 00:07 UTC ·
