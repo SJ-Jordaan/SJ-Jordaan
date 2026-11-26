@@ -4,6 +4,7 @@ Every world catalogued so far, newest first.
 
 | No. | Date | Designation | Class | Status |
 |---:|---|---|---|---|
+| 13 | 2026-11-26 | [**TOTHAIX PRIME**](archive/2026-11-26.svg) | Gas Giant | `CLASSIFIED` |
 | 12 | 2026-11-25 | [**XINNOMGLO-I**](archive/2026-11-25.svg) | Unconfirmed | `LOST AGAIN` |
 | 11 | 2026-11-24 | [**VUSAAE-III**](archive/2026-11-24.svg) | Ice Cathedral | `QUARANTINED` |
 | 10 | 2026-11-23 | [**AIRPRIR PRIME**](archive/2026-11-23.svg) | Cloud Kingdom | `PENDING VIBES CHECK` |
