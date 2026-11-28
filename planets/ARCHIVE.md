@@ -4,6 +4,7 @@ Every world catalogued so far, newest first.
 
 | No. | Date | Designation | Class | Status |
 |---:|---|---|---|---|
+| 15 | 2026-11-28 | [**AAESVUR**](archive/2026-11-28.svg) | Gas Giant | `QUARANTINED` |
 | 14 | 2026-11-27 | [**SIOTHZETHBRION**](archive/2026-11-27.svg) | Ice Cathedral | `PENDING VIBES CHECK` |
 | 13 | 2026-11-26 | [**TOTHAIX PRIME**](archive/2026-11-26.svg) | Gas Giant | `CLASSIFIED` |
 | 12 | 2026-11-25 | [**XINNOMGLO-I**](archive/2026-11-25.svg) | Unconfirmed | `LOST AGAIN` |

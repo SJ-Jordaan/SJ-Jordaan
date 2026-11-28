@@ -9,7 +9,7 @@
 
 <!-- PLANET:START -->
 <p align="center">
-  <img src="planets/archive/2026-11-27.svg" width="840" alt="Survey bulletin: SIOTHZETHBRION, class: Ice Cathedral. Inhabitants: a small family of tax inspectors who know what you did. Advisory: Avoid the southern continent; it is listening.">
+  <img src="planets/archive/2026-11-28.svg" width="840" alt="Survey bulletin: AAESVUR, class: Gas Giant. Inhabitants: none, officially. Advisory: Do not make eye contact with the moon.">
 </p>
 <p align="center"><sub>
   🛰️ The <b>Outer Survey Office</b> catalogues one new world every day at 00:07 UTC ·
